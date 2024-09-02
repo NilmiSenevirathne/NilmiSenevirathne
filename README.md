@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilmisenevirathne" alt="nilmisenevirathne" /></a> </p>
 
 ---
-- 🔭 I’m currently working on **Client Based Project**
+- 🔭 I’m currently working on **Cliend Based Project - Tool Management System**
 
 - 🌱 I’m currently learning **React and Springboot**
 
