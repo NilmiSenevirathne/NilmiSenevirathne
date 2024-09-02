@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilmisenevirathne&show_icons=true&locale=en&layout=compact" alt="nilmisenevirathne" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilmisenevirathne&show_icons=true&locale=en" alt="nilmisenevirathne" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NilmiSenevirathne&show_icons=true&locale=en" alt="nilmisenevirathne" /></p>
