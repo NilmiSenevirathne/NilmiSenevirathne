@@ -8,7 +8,7 @@
 ---
 
 
-- 🌱 I’m currently learning **React and Springboot**
+- 🌱 I’m currently learning **React,Lareval and Springboot**
 
 - 💬 Ask me about **React**
 
