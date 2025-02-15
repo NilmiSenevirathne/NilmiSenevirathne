@@ -24,15 +24,15 @@ Trophy: 🏆
 [![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com)
 [![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)](https://www.cprogramming.com/)
 [![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
-[![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com/)
-[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
+[![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg)](https://www.figma.com/)
+[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/)
 [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)
 [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
 [![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)
 [![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net)
 [![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
-[![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)](https://spring.io/)
+[![Spring](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg)](https://spring.io/)
 
 ---
 
