@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **amasenevirathne@gmail.com**
+- 📫 How to reach me **amasenevirathne2001@gmail.com**
 
 - ⚡ Fun fact **Call me as Ama**
 
