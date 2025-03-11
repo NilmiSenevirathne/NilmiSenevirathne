@@ -8,7 +8,7 @@
 ---
 
 
-- 🌱 I’m currently learning **Python,Node,React,Lareval and Springboot**
+- 🌱 I’m currently learning **Python,MERN Stack,Lareval and Springboot**
 - I'm currently developing a **Attendance Management System**
 
 - 💬 Ask me about **React**
